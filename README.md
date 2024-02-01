@@ -1,0 +1,1 @@
+# gwent-api-sme
